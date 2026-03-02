@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&weight=500&size=45&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=LOUAI+BELTAIEF;CyberSecurity+Expert;Software+Engineer;System+Integrity&repeat=false&v=60" alt="Louai Beltaief" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&weight=500&size=45&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=LOUAI+BELTAIEF;CyberSecurity+Expert;Software+Engineer;System+Integrity&repeat=false&v=65" alt="Louai Beltaief" />
 </h1>
 
 <div align="center">
@@ -45,7 +45,7 @@
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&text_color=00D4FF&title_color=FF69B4&icon_color=00D4FF&bg_color=162c38&hide_border=true&show_icons=true" alt="Stats" />
   </a>
   <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=transparent&currStreakNum=FF69B4&fire=FF69B4&sideLabels=00D4FF&dates=00D4FF&background=162c38&hide_border=true" alt="Streak" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&currStreakNum=FF69B4&fire=FF69B4&sideLabels=00D4FF&dates=00D4FF&background=162c38&hide_border=true" alt="Streak" />
   </a>
 </div>
 
