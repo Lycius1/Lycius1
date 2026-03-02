@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&weight=500&size=45&pause=2000&color=FFB300&center=true&vCenter=true&width=600&lines=LOUAI+BELTAIEF;CyberSecurity+Expert;Software+Engineer;System+Integrity&repeat=false&v=40" alt="Louai Beltaief" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&weight=500&size=45&pause=2000&color=FFB300&center=true&vCenter=true&width=600&lines=LOUAI+BELTAIEF;CyberSecurity+Expert;Software+Engineer;System+Integrity&repeat=false&v=45" alt="Louai Beltaief" />
 </h1>
 
 <div align="center">
@@ -43,7 +43,6 @@
   <br />
   <div style="display: flex; justify-content: center; gap: 10px;">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=transparent&text_color=FFFFFF&title_color=FFB300&icon_color=FFB300&bg_color=0D1117&hide_border=true&show_icons=true" alt="Stats" />
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=transparent&currStreakNum=FFB300&fire=FFB300&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117&hide_border=true" alt="Streak" />
   </div>
 </div>
 
@@ -54,7 +53,4 @@
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
-    <img alt="Timeline" src="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius
