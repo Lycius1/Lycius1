@@ -1,16 +1,5 @@
 <div align="center">
 
-  <!-- MATRIX HEADER -->
-  <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=42&pause=1500&color=00FF41&center=true&vCenter=true&width=800&lines=>+initialising+profile...;>+LOUAI+BELTAIEF;>+cybersecurity+engineer;>+secure+systems+architect;>+zero-trust+advocate&repeat=false" 
-  />
-
-  <br /><br />
-
-  <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
-
-<div align="center">
-
 <img 
 src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=root@lycius:~$+initialising...;root@lycius:~$+LOUAI+BELTAIEF;root@lycius:~$+Cybersecurity+Engineer;root@lycius:~$+Secure+Systems+Architect;root@lycius:~$+Zero+Trust+Advocate" />
 
@@ -33,6 +22,9 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 </a>
 
 </div>
+<a src="https://github.com/anuraghazra/github-readme-stats">
+   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME">
+</a>
 
 ---
 
