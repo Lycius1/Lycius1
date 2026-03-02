@@ -41,7 +41,6 @@
 <div align="center">
   <h2>⚡️ SYSTEM METRICS</h2>
   <br />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=dark&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=dark&count_private=true&border_radius=10&locale=en" alt="Streak Stats" />
 </div>
 
