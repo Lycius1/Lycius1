@@ -27,16 +27,13 @@ My approach is structured and outcome-driven: reduce attack surface, enforce lea
 
 I focus on aligning security engineering with operational efficiency and long-term scalability — ensuring protection mechanisms enable the business rather than obstruct it.
 
-<br><br>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
-<br><br>
-  
+
 <br><br>
 🌐 Socials:
 <div align="center">
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
 <br><br>
 <a href="mailto:louaybeltaief1@icloud.com">
   <img height="45" src="https://shorturl.at/7NfwL" />
