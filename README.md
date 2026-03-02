@@ -1,6 +1,27 @@
+<!-- Social Icons & Visitor Count at the TOP -->
+<p align="center">
+  <a href="https://github.com/Lycius1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28"/>
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="https://www.linkedin.com/in/louai-beltaief/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"/>
+  </a>
+  <span>&nbsp;&nbsp;</span>
+  <a href="mailto:louaybeltaief1@icloud.com">
+    <img src="https://img.shields.io/badge/Email-00A1D6?style=for-the-badge&logo=icloud&logoColor=white" alt="Email" height="28"/>
+  </a>
+</p>
+
+<!-- Retro Digital Clock Visitor Badge -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lycius1.Lycius1&left_color=green&right_color=darkgreen&left_text=Visitors" alt="Visitor Count - Retro Digital Style" />
+  <!-- Alternative more LED/clock-like if you prefer: https://komarev.com/ghpvc/?username=Lycius1&style=flat-square&color=00ff9d&label=Views (green LED feel) -->
+  <!-- Or for even more retro: use https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fprofile-counter.glitch.me%2FLycius1%2Fcount.svg&label=Visitors&logo=... but simplest is above -->
+</p>
+
 <p align="center">
   <img src="https://github.com/Lycius1/Lycius1/raw/main/assets/banner.gif" alt="Welcome Banner" width="800"/>
-  <!-- Upload your own GIF to the repo or use a hosted one below -->
 </p>
 
 <!-- Animated Typing Welcome -->
@@ -12,7 +33,6 @@
 
 <br>
 
-<!-- Quick intro -->
 <h2 align="center">👋 Welcome to my digital fortress</h2>
 
 <p align="center">
@@ -22,26 +42,25 @@
 
 <br>
 
-<!-- GitHub Metrics Visualizer Section (dynamic charts) -->
-<h2 align="center">📊 GitHub Metrics Overview</h2>
+<!-- Updated GitHub Metrics - Dracula theme (darker, more professional, less "vulgar") -->
+<h2 align="center">📊 GitHub Activity Overview</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lycius1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycius1&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lycius1&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycius1&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lycius1&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lycius1&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
 </p>
 
-<!-- Optional: Streak stats (very appealing visual) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br>
 
-<!-- Tech Stack Section -->
+<!-- Tech Stack remains the same -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
@@ -54,14 +73,6 @@
 
 <br>
 
-<!-- Optional extras: Keep it short -->
 <p align="center">
-  <em>Always learning, always securing, always building.</em><br>
-  📫 Reach out: <a href="mailto:louaybeltaief1@icloud.com">louaybeltaief1@icloud.com</a> | 
-  <a href="https://www.linkedin.com/in/louai-beltaief/">LinkedIn</a> | 
-  <a href="https://github.com/Lycius1">GitHub</a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lycius1.Lycius1" alt="Profile Views" />
+  <em>Always learning, always securing, always building.</em>
 </p>
