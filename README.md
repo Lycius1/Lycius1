@@ -14,16 +14,17 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Lycius1/count.svg" alt="Visitor Count - Retro Digital" />
-  <!-- Matrix green LED alternative: <img src="https://komarev.com/ghpvc/?username=Lycius1&color=00ff9d&style=flat-square&label=Visitors" alt="Visitors" /> -->
+  <!-- Green matrix alternative: <img src="https://komarev.com/ghpvc/?username=Lycius1&color=00ff9d&style=flat-square&label=Visitors" /> -->
 </p>
 
 <p align="center">
   <img src="https://github.com/Lycius1/Lycius1/raw/main/assets/banner.gif" alt="Welcome Banner" width="800"/>
-  <!-- Make sure you uploaded banner.gif to /assets/ in your profile repo -->
+  <!-- Upload your GIF to /assets/banner.gif in the repo -->
 </p>
 
+<!-- Typing Animation - Using reliable 2026 alternative TypingSVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4500&pause=1200&color=00FF9D&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Louai+Beltaief;Cyber+Security+Expert+%26+Fullstack+Engineer;Securing+the+Future+%7C+Building+Scalable+Systems;Welcome+to+my+GitHub+🔒🚀" alt="Typing Animation" />
+  <img src="https://typingsvg.vercel.app/api/svg?lines=[{%22text%22:%22Hello,%20I'm%20Louai%20Beltaief%22},{%22text%22:%22Cyber%20Security%20Expert%20%26%20Fullstack%20Engineer%22},{%22text%22:%22Securing%20Systems%20%7C%20Building%20Scalable%20Apps%22},{%22text%22:%22Welcome%20to%20my%20GitHub%20🔒🚀%22}]&font=monospace&color=00ff9d&background=transparent&center=true&size=28&cursor=true&speed=50&delay=1500" alt="Typing Animation" />
 </p>
 
 <br>
@@ -32,7 +33,7 @@
 
 <p align="center">
   Passionate Cyber Security Expert & Fullstack Software Engineer<br>
-  Specializing in threat detection, secure architectures, scalable apps, and turning vulnerabilities into strengths.
+  Focused on threat detection, secure architectures, scalable applications, and robust code.
 </p>
 
 <br>
