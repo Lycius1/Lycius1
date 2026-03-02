@@ -41,7 +41,6 @@
 <div align="center">
   <h2 style="border-bottom: none;">GitHub Metrics</h2>
   <br />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=tokyonight&count_private=true&show_icons=true&text_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=000000&hide_border=true" alt="Stats" />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=tokyonight&currStreakNum=00FF41&fire=00FF41&sideLabels=00FF41&dates=00FF41&background=000000&hide_border=true" alt="Streak" />
 </div>
 
