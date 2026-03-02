@@ -1,55 +1,45 @@
-<div align="center">
-<p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Lycius1/count.svg" alt="Visitor's Count" />  <img src="https://miro.medium.com/v2/1*DglCXRIX-fyrf1YwxER88g.jpeg" alt="Banner of a developer sitting in front of a desk">
-  <br />
-</div>
+# Hi there, I'm Lycius1 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=38&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Software+Engineer;CyberSecurity+Specialist;Welcome+to+my+Profile&repeat=false" />
-</h1>
+### 🛡️ Cyber Security & Full Stack Developer
+*Merging robust engineering with offensive security mindsets.*
 
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/{USERNAME}/{USERNAME}/issues)**
-<br>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00FF41" />
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
+---
 
-<hr />
-
-<div align="center">
-## 🛠️ Languages and Tools
-
-<br>
-
+### 🛠️ GitHub Stats (Top Theme)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lycius1&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=70a5fd&text_color=70a5fd&icon_color=bb9af7&border_color=2f364d&hide_border=false" alt="Lycius1 GitHub Stats" />
 </p>
 
-<hr>
+---
 
-## ⚡️ Stats
+### ⚡ 5 Cyber-Sec Full Stack Focus Areas
+1.  **🛡️ Zero-Trust Architecture:** Implementing microservices with mutual TLS (mTLS) and robust IAM policies.
+2.  **💉 Injection Prevention:** Hardening Node.js and Java backends against SQLi, NoSQLi, and Command Injection.
+3.  **🔐 Auth & Identity:** Deploying secure OAuth2/OpenID Connect flows with multi-factor authentication (MFA).
+4.  **🕵️ Web Pentesting:** Utilizing Burp Suite and OWASP ZAP to identify vulnerabilities in the SDLC before deployment.
+5.  **🚀 Performance & Privacy:** Balancing high-speed React rendering with client-side data encryption.
 
-<br>
+---
 
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Lycius's" />
-</div>
+### 🔭 Current Mission
+* **🌱 Learning:** [System Design & Distributed Architecture](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)
+* **💻 Building:** A secure, real-time dashboard for monitoring network anomalies.
+* **💬 Ask me about:** **Java, Node.js, React... or anything [here](https://github.com/Lycius1/Lycius1/issues)**
 
-<hr>
+---
 
-<hr />
+### 🧰 Tech Stack
+* **Languages:** Java, JavaScript (ES6+), TypeScript, SQL
+* **Frameworks:** React, Next.js, Node.js, Spring Boot
+* **Security Tools:** Nmap, Wireshark, Metasploit, OWASP Top 10
+* **Infrastructure:** Docker, Kubernetes, AWS, GitHub Actions
 
-<div align="center">
-  <h2>Contribution Activity</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+---
+
+### 📫 Connect with Me
+* **📧 Email:** [louaybeltaief1@icloud.com](mailto:louaybeltaief1@icloud.com)
+* **🔗 LinkedIn:** [Louay Beltaief](https://www.linkedin.com/feed/)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=tokyonight&background=1a1b27&ring=70a5fd&fire=bb9af7" alt="Lycius1 Streak" />
+</p>
