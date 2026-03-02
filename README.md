@@ -1,70 +1,58 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20ACCESS&color=00FF41&style=flat-square" alt="Access Count" />
+  
+  <br />
 
-  <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00D4FF&style=flat-square" />
-
-  <br /><br />
-
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&weight=500&size=45&pause=2000&color=FF69B4&center=true&vCenter=true&width=700&lines=LOUAI+BELTAIEF;CyberSecurity+Engineer;Secure+Systems+Architect;Offensive+%26+Defensive+Security&repeat=false" />
-
+  <img src="https://path/to/your/matrix-banner.png" alt="CyberSecurity Banner" width="100%">
 </div>
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;ENCRYPTION+LAYERS+ACTIVE;WELCOME+USER:+LOU;&repeat=false" />
+</h1>
 
 <div align="center">
-  <i>Engineering resilient systems with uncompromising security standards.</i>
+  <h3>> STACK: FULL-STACK ARCHITECT // CYBER-DEFENSE SPECIALIST</h3>
+
+  <p>
+    🟢 <b>STATUS:</b> LEVEL 7 ACCESS GRANTED
+  </p>
+  <p>
+    💾 <b>OBJECTIVE:</b> ADVANCED THREAT SIMULATION & CRYPTOGRAPHY
+  </p>
+
+  <br />
+
+  <img src="https://img.shields.io/badge/TERMINAL-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail" />
+  <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
 </div>
 
-<br />
+<hr />
 
 <div align="center">
-
-<a href="mailto:louaybeltaief1@icloud.com">
-  <img src="https://img.shields.io/badge/INQUIRY-EMAIL-FF69B4?style=for-the-badge&labelColor=162c38" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/louai-beltaief/" target="_blank">
-  <img src="https://img.shields.io/badge/CONNECT-LINKEDIN-00D4FF?style=for-the-badge&labelColor=162c38" />
-</a>
-
+  <h2>0101 // CORE_TECHNOLOGIES</h2>
+  <br />
+  <p>
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,html,css,js,git,figma&theme=dark" alt="Skill Icons" />
+  </p>
 </div>
 
----
-
-## 0x01 // TECHNICAL STACK
+<hr />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,html,css,js,git,figma&theme=dark" />
+  <h2>0110 // SYSTEM_METRICS</h2>
+  <br />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=tokyonight&count_private=true&show_icons=true&text_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=000000" alt="GitHub Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=tokyonight&currStreakNum=00FF41&fire=00FF41&sideLabels=00FF41&dates=00FF41&background=000000" alt="Streak Stats" />
 </div>
 
----
-
-## 0x02 // GITHUB ANALYTICS
+<hr />
 
 <div align="center">
-
-<img width="500"
-  src="https://github-readme-stats.vercel.app/api?username=Lycius1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=percentile&border_radius=15&bg_color=162c38&title_color=FF69B4&text_color=00D4FF&icon_color=00D4FF" />
-
-<br /><br />
-
-<img width="500"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&background=162c38&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=00D4FF" />
-
-<br /><br />
-
-<img width="500"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycius1&layout=compact&hide_border=true&bg_color=162c38&title_color=FF69B4&text_color=00D4FF" />
-
+  <h2>0111 // CONTRIBUTION_GRID</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
----
-
-## 0x03 // SECURITY PHILOSOPHY
-
-```text
-> Security is not a feature.
-> It is an architectural principle.
-> 
-> Build systems assuming breach.
-> Minimise trust.
-> Validate everything.
