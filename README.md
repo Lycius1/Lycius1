@@ -35,7 +35,7 @@ I focus on aligning security engineering with operational efficiency and long-te
 <a href="mailto:louaybeltaief1@icloud.com">
   <img height="45" src="https://shorturl.at/7NfwL" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/louai-beltaief/" target="_blank">
   <img height="45" src="https://shorturl.at/PmzqK" />
 </a>
