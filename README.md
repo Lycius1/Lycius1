@@ -1,57 +1,67 @@
-# ⚡ Critical System Access: Louai Beltaief
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00e6e6&height=250&section=header&text=Louai%20Beltaief&fontSize=80&animation=typewriter&fontAlignY=35&desc=Cybersecurity%20Analyst%20|%20Full%20Stack%20Developer&descAlignY=60&descSize=25" />
+  <img src="https://github.com/Lycius1/Lycius1/raw/main/assets/banner.gif" alt="Welcome Banner" width="800"/>
+  <!-- Upload your own GIF to the repo or use a hosted one below -->
 </p>
 
-## Executive Summary
-Entry-level cybersecurity analyst with robust experience in IT support and helpdesk operations. Specialized in AD/LDAP, Microsoft 365, and incident response. Expert in troubleshooting, endpoint security, and service ticketing within ITSM frameworks.
-
----
-
-## Technical Core
-* **Operations**: Incident and Problem Management
-* **Directory Services**: Active Directory and LDAP Account Administration
-* **Assessment**: Risk and Vulnerability Assessments
-* **Offensive Security**: Penetration Testing Techniques
-* **Cloud Infrastructure**: Microsoft 365 Configuration and User Support
-* **Service Delivery**: ITSM Practices and SLA Monitoring
-* **Network Integrity**: Log Analysis and Reporting
-
----
-
+<!-- Animated Typing Welcome -->
 <p align="center">
-  <img src="https://miro.medium.com/v2/1*DglCXRIX-fyrf1YwxER88g.jpeg" width="700" />
-</p>
-
----
-
-## Professional Achievements
-* **System Efficiency**: Streamlined hardware and software configurations, improving setup efficiency by 20%.
-* **Proactive Security**: Reduced system performance issues by 30% through early detection strategies.
-* **Incident Resolution**: Handled escalated inquiries, reducing average resolution time by 30%.
-* **Workflow Optimization**: Implemented scheduling systems resulting in a 40% reduction in conflicts.
-
----
-
-## Educational Qualifications
-* **Advanced Diploma of Information Technology (Cyber Security)**
-    * Focused on securing network endpoints, automating system protection, and managing security infrastructure.
-* **Certificate IV in Cyber Security**
-    * Focused on implementing virtualized security infrastructure and performing risk assessments.
-
----
-
-## Deployment Statistics
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/louai-beltaief">
-    <img src="https://img.shields.io/badge/LINKEDIN-PROFESSIONAL_NETWORK-00e6e6?style=for-the-badge&logo=linkedin" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Louai+Beltaief;Cyber+Security+Expert+%26+Fullstack+Software+Engineer;Securing+Systems+%7C+Building+Scalable+Apps;Welcome+to+my+GitHub+🚀" alt="Typing SVG" />
   </a>
+</p>
+
+<br>
+
+<!-- Quick intro -->
+<h2 align="center">👋 Welcome to my digital fortress</h2>
+
+<p align="center">
+  Passionate about <strong>cybersecurity</strong>, secure software development, fullstack engineering, and turning complex problems into elegant solutions.<br>
+  Currently focused on threat detection, secure architectures, and modern web/app development.
+</p>
+
+<br>
+
+<!-- GitHub Metrics Visualizer Section (dynamic charts) -->
+<h2 align="center">📊 GitHub Metrics Overview</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lycius1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycius1&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lycius1&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</p>
+
+<!-- Optional: Streak stats (very appealing visual) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" alt="Backend & Databases" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" alt="Frontend & Tools" />
+</p>
+
+<br>
+
+<!-- Optional extras: Keep it short -->
+<p align="center">
+  <em>Always learning, always securing, always building.</em><br>
+  📫 Reach out: <a href="mailto:louaybeltaief1@icloud.com">louaybeltaief1@icloud.com</a> | 
+  <a href="https://www.linkedin.com/in/louai-beltaief/">LinkedIn</a> | 
+  <a href="https://github.com/Lycius1">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lycius1.Lycius1" alt="Profile Views" />
 </p>
