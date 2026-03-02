@@ -5,15 +5,27 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 
 <br><br>
 
-## > EXECUTIVE SUMMARY
+About Me
 
-```text
-Cybersecurity engineer focused on hardened backend systems,
-secure architecture design, and zero-trust implementation.
+Hi, I’m Louai Beltaief — a Cybersecurity Engineer focused on designing hardened systems, secure backend architectures, and zero-trust environments. I build with the assumption of breach and engineer for resilience, visibility, and controlled trust boundaries.
 
-Builds systems assuming breach.
-Designs with resilience, observability, and controlled trust boundaries.
-```
+I specialise in:
+
+🔐 Application Security & Secure Code Practices
+
+🏗️ Secure Backend & API Architecture
+
+☁️ Cloud Security & Hardening
+
+🛡️ Threat Modelling & Risk Reduction
+
+🔎 Authentication, Authorisation & Identity Controls
+
+⚙️ DevSecOps & Secure CI/CD Pipelines
+
+My approach is structured and outcome-driven: reduce attack surface, enforce least privilege, and instrument systems for continuous validation.
+
+I focus on aligning security engineering with operational efficiency and long-term scalability — ensuring protection mechanisms enable the business rather than obstruct it.
 
 <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
 
