@@ -1,54 +1,54 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20ACCESS&color=00FF41&style=flat-square" alt="Access Count" />
+  <img src="https://komarev.com/ghpvc/?username=Lycius1&label=PROFILE%20VIEWS&color=00FF41&style=flat-square" alt="Views" />
   
   <br />
 
-  <img src="https://path/to/your/matrix-banner.png" alt="CyberSecurity Banner" width="100%">
+  <img src="https://github.com/Lycius1/Lycius1/blob/main/banner.png?raw=true" alt="CyberSecurity Professional Banner" width="100%">
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Courier+New&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=INITIALIZING+SYSTEM...;ENCRYPTION+LAYERS+ACTIVE;WELCOME+USER:+LOU;&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=38&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineer;CyberSecurity+Specialist;Welcome+to+my+Profile;&repeat=false" />
 </h1>
 
 <div align="center">
-  <h3>> STACK: FULL-STACK ARCHITECT // CYBER-DEFENSE SPECIALIST</h3>
+  <h3>Dedicated to building secure, scalable, and user-centric digital infrastructure.</h3>
 
   <p>
-    🟢 <b>STATUS:</b> LEVEL 7 ACCESS GRANTED
+    <b>Focus:</b> Full-stack Development & Security Operations
   </p>
   <p>
-    💾 <b>OBJECTIVE:</b> ADVANCED THREAT SIMULATION & CRYPTOGRAPHY
+    <b>Expertise:</b> Java, Node.js, React, and System Design
   </p>
 
   <br />
 
-  <img src="https://img.shields.io/badge/TERMINAL-GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Gmail" />
-  <img src="https://img.shields.io/badge/NETWORK-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </div>
 
 <hr />
 
 <div align="center">
-  <h2>0101 // CORE_TECHNOLOGIES</h2>
+  <h2 style="border-bottom: none;">Technical Stack</h2>
   <br />
   <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,html,css,js,git,figma&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,html,css,js,git,figma&theme=dark" alt="Tools" />
   </p>
 </div>
 
 <hr />
 
 <div align="center">
-  <h2>0110 // SYSTEM_METRICS</h2>
+  <h2 style="border-bottom: none;">GitHub Metrics</h2>
   <br />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=tokyonight&count_private=true&show_icons=true&text_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=000000" alt="GitHub Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=tokyonight&currStreakNum=00FF41&fire=00FF41&sideLabels=00FF41&dates=00FF41&background=000000" alt="Streak Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=tokyonight&count_private=true&show_icons=true&text_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=000000&hide_border=true" alt="Stats" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=tokyonight&currStreakNum=00FF41&fire=00FF41&sideLabels=00FF41&dates=00FF41&background=000000&hide_border=true" alt="Streak" />
 </div>
 
 <hr />
 
 <div align="center">
-  <h2>0111 // CONTRIBUTION_GRID</h2>
+  <h2 style="border-bottom: none;">Contribution Activity</h2>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake-dark.svg" />
