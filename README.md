@@ -3,9 +3,6 @@
   
   <br />
 
-  <img src="./banner.gif" width="100%" alt="CyberSecurity Banner">
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=38&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineer;CyberSecurity+Specialist;Welcome+to+my+Profile&repeat=false&v=5" alt="Welcome Animation" />
 </h1>
