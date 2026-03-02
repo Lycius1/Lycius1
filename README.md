@@ -2,8 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=Lycius1&label=PROFILE%20VIEWS&color=00FF41&style=flat-square" alt="Views" />
   
   <br />
-
-  <img src="./banner.gif" width="100%" alt="CyberSecurity Banner">
 </div>
 
 <h1 align="center">
