@@ -39,7 +39,7 @@
 <hr />
 
 <div align="center">
-  <h2>⚡️ SYSTEM METRICS</h2>
+  <h2>⚡️ SYSTEM METRICS [Github Stats]</h2>
   <br />
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=dark&count_private=true&border_radius=10&locale=en" alt="Streak Stats" />
 </div>
