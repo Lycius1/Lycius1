@@ -14,17 +14,21 @@
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/Lycius1/count.svg" alt="Visitor Count - Retro Digital" />
-  <!-- Green matrix alternative: <img src="https://komarev.com/ghpvc/?username=Lycius1&color=00ff9d&style=flat-square&label=Visitors" /> -->
+  <!-- Alternative green matrix style: -->
+  <!-- <img src="https://komarev.com/ghpvc/?username=Lycius1&color=00ff9d&style=flat-square&label=Visitors" /> -->
 </p>
 
 <p align="center">
   <img src="https://github.com/Lycius1/Lycius1/raw/main/assets/banner.gif" alt="Welcome Banner" width="800"/>
-  <!-- Upload your GIF to /assets/banner.gif in the repo -->
+  <!-- Make sure you have uploaded banner.gif to /assets/ in your repo -->
 </p>
 
-<!-- Typing Animation - Using reliable 2026 alternative TypingSVG -->
+<!-- Fixed Typing Animation -->
 <p align="center">
-  <img src="https://typingsvg.vercel.app/api/svg?lines=[{%22text%22:%22Hello,%20I'm%20Louai%20Beltaief%22},{%22text%22:%22Cyber%20Security%20Expert%20%26%20Fullstack%20Engineer%22},{%22text%22:%22Securing%20Systems%20%7C%20Building%20Scalable%20Apps%22},{%22text%22:%22Welcome%20to%20my%20GitHub%20🔒🚀%22}]&font=monospace&color=00ff9d&background=transparent&center=true&size=28&cursor=true&speed=50&delay=1500" alt="Typing Animation" />
+  <img 
+    src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hello%2C%20I'm%20Louai%20Beltaief%22%7D%2C%7B%22text%22%3A%22Cyber%20Security%20Expert%20%26%20Fullstack%20Engineer%22%7D%2C%7B%22text%22%3A%22Securing%20Systems%20%7C%20Building%20Scalable%20Apps%22%7D%2C%7B%22text%22%3A%22Welcome%20to%20my%20GitHub%20%F0%9F%94%92%F0%9F%9A%80%22%7D%5D&font=monospace&color=00ff9d&background=transparent&center=true&size=28&cursor=true&speed=50&delay=1500" 
+    alt="Typing Animation"
+  />
 </p>
 
 <br>
