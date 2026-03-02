@@ -52,11 +52,14 @@
 <hr style="border: 0.5px solid #162c38;" />
 
 <div align="center">
-  <h2 style="font-weight: 300; letter-spacing: 2px; color: #00D4FF;">0x03 // DEVELOPMENT TIMELINE</h2>
+  <h2 style="font-weight: 300; letter-spacing: 2px; color: #FF69B4;">0x02 // DATA ANALYTICS</h2>
   <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
-    <img alt="Timeline" src="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&bg_color=162c38&title_color=FF69B4&text_color=00D4FF&icon_color=00D4FF&hide_border=true&show_icons=true" alt="Stats" />
+  </a>
+
+  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&background=162c38&currStreakNum=FF69B4&fire=FF69B4&sideLabels=00D4FF&dates=00D4FF&hide_border=true" alt="Streak" />
+  </a>
 </div>
