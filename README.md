@@ -1,55 +1,43 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lycius1&label=PROFILE%20VIEWS&color=00FF41&style=flat-square" alt="Views" />
-  
   <br />
-
-  <img src="https://github.com/Lycius1/Lycius1/blob/main/banner.png?raw=true" alt="CyberSecurity Professional Banner" width="100%">
+  <img src="https://github.com/Lycius1/Lycius1/blob/main/banner.png?raw=true" alt="Banner" width="100%">
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=38&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineer;CyberSecurity+Specialist;Welcome+to+my+Profile;&repeat=false" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=38&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineer;CyberSecurity+Specialist;Welcome+to+my+Profile&repeat=false" />
 </h1>
 
 <div align="center">
   <h3>Dedicated to building secure, scalable, and user-centric digital infrastructure.</h3>
-
-  <p>
-    <b>Focus:</b> Full-stack Development & Security Operations
-  </p>
-  <p>
-    <b>Expertise:</b> Java, Node.js, React, and System Design
-  </p>
-
   <br />
-
-  <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00FF41" />
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin-handle" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </div>
 
 <hr />
 
 <div align="center">
-  <h2 style="border-bottom: none;">Technical Stack</h2>
-  <br />
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,html,css,js,git,figma&theme=dark" alt="Tools" />
-  </p>
+  <h2>Technical Stack</h2>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,html,css,js,git,figma&theme=dark" />
 </div>
 
 <hr />
 
 <div align="center">
-  <h2 style="border-bottom: none;">GitHub Metrics</h2>
-  <br />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=tokyonight&count_private=true&show_icons=true&text_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=000000&hide_border=true" alt="Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=tokyonight&currStreakNum=00FF41&fire=00FF41&sideLabels=00FF41&dates=00FF41&background=000000&hide_border=true" alt="Streak" />
+  <h2>GitHub Metrics</h2>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=tokyonight&text_color=00FF41&title_color=00FF41&icon_color=00FF41&bg_color=000000&hide_border=true" />
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=tokyonight&currStreakNum=00FF41&fire=00FF41&sideLabels=00FF41&dates=00FF41&background=000000&hide_border=true" />
 </div>
 
 <hr />
 
 <div align="center">
-  <h2 style="border-bottom: none;">Contribution Activity</h2>
-  <br />
+  <h2>Contribution Activity</h2>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
