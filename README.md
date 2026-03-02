@@ -3,7 +3,6 @@
   <br />
   <img src="https://github.com/Lycius1/Lycius1/blob/main/banner.png?raw=true" alt="Banner" width="100%">
 </div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&weight=600&size=38&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineer;CyberSecurity+Specialist;Welcome+to+my+Profile&repeat=false" />
 </h1>
