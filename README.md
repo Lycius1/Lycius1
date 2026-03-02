@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lycius1&label=PROFILE%20VIEWS&color=00FF41&style=flat-square" alt="Views" />
+  <img src="https://miro.medium.com/v2/1*DglCXRIX-fyrf1YwxER88g.jpeg" alt="Banner of a developer sitting in front of a desk">
   <br />
 </div>
 
