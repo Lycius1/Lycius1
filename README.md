@@ -27,7 +27,7 @@
 <!-- Animated Typing Welcome -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Louai+Beltaief;Cyber+Security+Expert+%26+Fullstack+Software+Engineer;Securing+Systems+%7C+Building+Scalable+Apps;Welcome+to+my+GitHub+🚀" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=4000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Louai+Beltaief;Cyber+Security+Expert+%26+Fullstack+Software+Engineer;Securing+Systems+%7C+Building+Scalable+Apps;Welcome+to+my+GitHub+🚀" alt="Typing SVG" />
   </a>
 </p>
 
