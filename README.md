@@ -33,9 +33,9 @@ I focus on aligning security engineering with operational efficiency and long-te
 <br><br>
   
 <br><br>
-
+🌐 Socials:
 <a href="mailto:louaybeltaief1@icloud.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&color=000000" />
+  <img src="https://shorturl.at/7NfwL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&color=000000" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/louai-beltaief/" target="_blank">
@@ -45,6 +45,9 @@ I focus on aligning security engineering with operational efficiency and long-te
 <a href="https://github.com/sindresorhus/awesome" target="_blank">
   <img src="https://img.shields.io/badge/AWESOME-000000?style=for-the-badge&logo=awesome&logoColor=00FF41&color=000000" />
 </a>
+<br><br>
+
+
 
 ![](https://github-streaks.tapindersingh.click/?user=Lycius1&theme=dark&hide_border=false&v=2&cache=clear)<br/>
 ![](https://github-stats.tapindersingh.click/top-langs/?username=Lycius1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=clear)<br/>
