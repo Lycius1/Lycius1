@@ -23,7 +23,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 
 </div>
 <a src="https://github.com/anuraghazra/github-readme-stats">
-   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME">
+   <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycius1">
 </a>
 
 ---
