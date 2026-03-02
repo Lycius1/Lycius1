@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email" />
   </a>
 
-  <a href="https://linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/louai-beltaief/" target="_blank">
+  <a href="[https://linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/louai-beltaief/](https://www.linkedin.com/in/louai-beltaief/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
