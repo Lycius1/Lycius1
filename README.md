@@ -5,6 +5,16 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 
 <br><br>
 
+## > EXECUTIVE SUMMARY
+
+```text
+Cybersecurity engineer focused on hardened backend systems,
+secure architecture design, and zero-trust implementation.
+
+Builds systems assuming breach.
+Designs with resilience, observability, and controlled trust boundaries.
+```
+
 <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
 
 <br><br>
@@ -21,18 +31,9 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
   <img src="https://img.shields.io/badge/AWESOME-000000?style=for-the-badge&logo=awesome&logoColor=00FF41&color=000000" />
 </a>
 
-
-![](https://github-stats.tapindersingh.click/?username=Lycius1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache=clear)<br/>
 ![](https://github-streaks.tapindersingh.click/?user=Lycius1&theme=dark&hide_border=false&v=2&cache=clear)<br/>
 ![](https://github-stats.tapindersingh.click/top-langs/?username=Lycius1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=clear)<br/>
-![](https://github-stats.tapindersingh.click/medium?theme=dark&show_icons=true&hide_border=false&layout=compact&cache=clear)
----
 
-## > EXECUTIVE SUMMARY
 
-```text
-Cybersecurity engineer focused on hardened backend systems,
-secure architecture design, and zero-trust implementation.
 
-Builds systems assuming breach.
-Designs with resilience, observability, and controlled trust boundaries.
+
