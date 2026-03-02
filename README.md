@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lycius1&label=PORTFOLIO%20TRAFFIC&color=C0C0C0&style=flat-square" alt="Analytics" />
+  <img src="https://komarev.com/ghpvc/?username=Lycius1&label=PORTFOLIO%20TRAFFIC&color=FFFFFF&style=flat-square" alt="Analytics" />
   
   <br />
   <br />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&weight=500&size=45&pause=2000&color=C0C0C0&center=true&vCenter=true&width=600&lines=LOUAI+BELTAIEF;CyberSecurity+Expert;Software+Engineer;System+Integrity&repeat=false&v=20" alt="Louai Beltaief" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Lora&weight=500&size=45&pause=2000&color=C0C0C0&center=true&vCenter=true&width=600&lines=LOUAI+BELTAIEF;CyberSecurity+Expert;Software+Engineer;System+Integrity&repeat=false&v=25" alt="Louai Beltaief" />
 </h1>
 
 <div align="center">
@@ -31,26 +31,26 @@
 <hr style="border: 0.5px solid #333;" />
 
 <div align="center">
-  <h2 style="font-weight: 300; letter-spacing: 2px;">TECHNICAL CURATION</h2>
+  <h2 style="font-weight: 300; letter-spacing: 2px; color: #FFFFFF;">TECHNICAL CURATION</h2>
   <br />
-  <p>
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,html,css,js,git,figma&theme=dark" alt="Stack" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma,html,css,js,git,figma&theme=dark" alt="Stack" />
 </div>
 
 <hr style="border: 0.5px solid #333;" />
 
 <div align="center">
-  <h2 style="font-weight: 300; letter-spacing: 2px;">SYSTEM METRICS</h2>
+  <h2 style="font-weight: 300; letter-spacing: 2px; color: #FFFFFF;">SYSTEM METRICS</h2>
   <br />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=transparent&text_color=C0C0C0&title_color=FFFFFF&icon_color=C0C0C0&bg_color=0D1117&hide_border=true&show_icons=true" alt="Stats" />
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=transparent&currStreakNum=FFFFFF&fire=FFFFFF&sideLabels=C0C0C0&dates=C0C0C0&background=0D1117&hide_border=true" alt="Streak" />
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=transparent&text_color=C0C0C0&title_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1117&hide_border=true&show_icons=true" alt="Stats" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=transparent&currStreakNum=FFFFFF&fire=FFFFFF&sideLabels=C0C0C0&dates=C0C0C0&background=0D1117&hide_border=true" alt="Streak" />
+  </div>
 </div>
 
 <hr style="border: 0.5px solid #333;" />
 
 <div align="center">
-  <h2 style="font-weight: 300; letter-spacing: 2px;">DEVELOPMENT TIMELINE</h2>
+  <h2 style="font-weight: 300; letter-spacing: 2px; color: #FFFFFF;">DEVELOPMENT TIMELINE</h2>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake-dark.svg" />
