@@ -31,6 +31,7 @@ My approach is structured and outcome-driven: reduce attack surface, enforce lea
 I focus on aligning security engineering with operational efficiency and long-term scalability — ensuring protection mechanisms enable the business rather than obstruct it.
 
 <div align="center">
+
   ## 🛠️ Languages and Tools
 </div>
 
@@ -44,17 +45,21 @@ I focus on aligning security engineering with operational efficiency and long-te
 </p>
 
 <br>
+
 <div align="center">
 
 🌐 Socials:
+
   &nbsp;&nbsp;&nbsp;
 <a href="mailto:louaybeltaief1@icloud.com">
   <img height="45" src="https://shorturl.at/7NfwL" />
 </a>
+
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/louai-beltaief/" target="_blank">
   <img height="45" src="https://shorturl.at/PmzqK" />
 </a>
+
 <br>
 
 <br>
