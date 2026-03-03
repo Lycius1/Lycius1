@@ -42,12 +42,14 @@ I focus on aligning security engineering with operational efficiency and long-te
 
 </div>
 
+<hr>
+
 <div align="center">
   
 ![](https://github-streaks.tapindersingh.click/?user=Lycius1&theme=dark&hide_border=false&v=2&cache=clear)<br/>
 ![](https://github-stats.tapindersingh.click/top-langs/?username=Lycius1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=clear)<br/>
 
-
+<hr>
 
 
 
