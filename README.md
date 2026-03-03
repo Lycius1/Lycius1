@@ -56,11 +56,9 @@ I focus on aligning security engineering with operational efficiency and long-te
   <img height="45" src="https://shorturl.at/PmzqK" />
 </a>
 
-<br>
-
 ## 🐍 My Contributions
 
-<div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" 
       srcset="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake-dark.svg" />
@@ -69,7 +67,7 @@ I focus on aligning security engineering with operational efficiency and long-te
     <img alt="github-snake" 
       src="https://raw.githubusercontent.com/Lycius1/Lycius1/output/github-contribution-grid-snake.svg" />
   </picture>
-</div>
+
 
 </div>
   
