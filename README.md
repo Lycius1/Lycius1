@@ -32,6 +32,17 @@ My approach is structured and outcome-driven: reduce attack surface, enforce lea
 
 I focus on aligning security engineering with operational efficiency and long-term scalability — ensuring protection mechanisms enable the business rather than obstruct it.
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
+
 <hr>
 
 <div align="center">
@@ -54,6 +65,18 @@ I focus on aligning security engineering with operational efficiency and long-te
   
 ![](https://github-streaks.tapindersingh.click/?user=Lycius1&theme=dark&hide_border=false&v=2&cache=clear)<br/>
 ![](https://github-stats.tapindersingh.click/top-langs/?username=Lycius1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=clear)<br/>
+
+## ⚡️ Stats
+
+<br>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Lycius1&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Lycius1's GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Lycius1&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Lycius1's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Lycius1&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Lycius1's Most Used Languages" />
+</div>
+
+<hr>
 
 <hr>
 
