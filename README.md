@@ -5,6 +5,10 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 
 <br><br>
 
+<img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
+
+<hr>
+
 About Me
 
 Hi, I’m Louai Beltaief — a Cybersecurity Engineer focused on designing hardened systems, secure backend architectures, and zero-trust environments. I build with the assumption of breach and engineer for resilience, visibility, and controlled trust boundaries.
@@ -27,8 +31,10 @@ My approach is structured and outcome-driven: reduce attack surface, enforce lea
 
 I focus on aligning security engineering with operational efficiency and long-term scalability — ensuring protection mechanisms enable the business rather than obstruct it.
 
+<hr>
+
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
+
 <br><br>
 🌐 Socials:
   &nbsp;&nbsp;&nbsp;
