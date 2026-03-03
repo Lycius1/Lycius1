@@ -75,8 +75,7 @@ I focus on aligning security engineering with operational efficiency and long-te
   
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lycius1&theme=github-dark&hide_border=false&v=2" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycius1&layout=compact&theme=github_dark&hide_border=false&cache_seconds=3600" />
-</div>
+<img src="https://raw.githubusercontent.com/Lycius1/Lycius1/main/github-metrics.svg" /></div>
 
 <br>
 
