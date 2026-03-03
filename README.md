@@ -3,9 +3,7 @@
 <img 
 src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=root@lycius:~$+initialising...;root@lycius:~$+LOUAI+BELTAIEF;root@lycius:~$+Cybersecurity+Engineer;root@lycius:~$+Secure+Systems+Architect;root@lycius:~$+Zero+Trust+Advocate" />
 
-<br><br>
-
-
+<br>
   <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
 </div>
 <br>
@@ -56,6 +54,18 @@ I focus on aligning security engineering with operational efficiency and long-te
   <img height="45" src="https://shorturl.at/PmzqK" />
 </a>
 <br>
+
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{Lycius1}/{Lycius1}/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{Lycius1}/{Lycius1}/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
 
 </div>
 
