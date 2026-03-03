@@ -60,8 +60,6 @@ I focus on aligning security engineering with operational efficiency and long-te
 
 <br>
 
-<br>
-
 ## 🐍 My Contributions
 
 <div align="center">
@@ -82,6 +80,7 @@ I focus on aligning security engineering with operational efficiency and long-te
   
 ![](https://github-streaks.tapindersingh.click/?user=Lycius1&theme=dark&hide_border=false&v=2&cache=clear)<br/>
 ![](https://github-stats.tapindersingh.click/top-langs/?username=Lycius1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=clear)<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lycius1&layout=donut&theme=github_dark" />
 
 <br>
 
