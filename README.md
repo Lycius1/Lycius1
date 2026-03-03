@@ -10,6 +10,8 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 
 <hr>
 
+<br><br>
+
 About Me
 
 Hi, I’m Louai Beltaief — a Cybersecurity Engineer focused on designing hardened systems, secure backend architectures, and zero-trust environments. I build with the assumption of breach and engineer for resilience, visibility, and controlled trust boundaries.
