@@ -1,16 +1,14 @@
 
-
+<div align="center"> 
 <img 
 src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=root@lycius:~$+initialising...;root@lycius:~$+LOUAI+BELTAIEF;root@lycius:~$+Cybersecurity+Engineer;root@lycius:~$+Secure+Systems+Architect;root@lycius:~$+Zero+Trust+Advocate" />
 
 <br><br>
 
-<div align="center"> 
+
   <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
 </div>
 <hr>
-
-<br><br>
 
 About Me
 
