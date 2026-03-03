@@ -5,6 +5,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 
 <br><br>
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
 
 <hr>
