@@ -55,7 +55,9 @@ I focus on aligning security engineering with operational efficiency and long-te
 </a>
 <br>
 
-🐍 My Contributions
+<br>
+
+## 🐍 My Contributions
 
 <div align="center">
   <picture>
