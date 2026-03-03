@@ -30,7 +30,9 @@ My approach is structured and outcome-driven: reduce attack surface, enforce lea
 
 I focus on aligning security engineering with operational efficiency and long-term scalability — ensuring protection mechanisms enable the business rather than obstruct it.
 
-🛠️ Languages and Tools
+<div align="center">
+  ## 🛠️ Languages and Tools
+</div>
 
 <br>
 
