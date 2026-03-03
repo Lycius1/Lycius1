@@ -38,7 +38,6 @@ I focus on aligning security engineering with operational efficiency and long-te
 
 <div align="center">
 
-<br><br>
 🌐 Socials:
   &nbsp;&nbsp;&nbsp;
 <a href="mailto:louaybeltaief1@icloud.com">
