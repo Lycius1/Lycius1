@@ -59,8 +59,6 @@ I focus on aligning security engineering with operational efficiency and long-te
 
 </div>
 
-<hr>
-
 <div align="center">
   
 ![](https://github-streaks.tapindersingh.click/?user=Lycius1&theme=dark&hide_border=false&v=2&cache=clear)<br/>
