@@ -8,7 +8,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 
   <img src="https://komarev.com/ghpvc/?username=Lycius1&label=SYSTEM%20TRAFFIC&color=00FF41&style=flat-square" />
 </div>
-<hr>
+<br>
 
 About Me
 
@@ -41,8 +41,7 @@ I focus on aligning security engineering with operational efficiency and long-te
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
-<hr>
-
+<br>
 <div align="center">
 
 🌐 Socials:
@@ -54,8 +53,7 @@ I focus on aligning security engineering with operational efficiency and long-te
 <a href="https://www.linkedin.com/in/louai-beltaief/" target="_blank">
   <img height="45" src="https://shorturl.at/PmzqK" />
 </a>
-
-<hr>
+<br>
 
 </div>
 
@@ -64,9 +62,7 @@ I focus on aligning security engineering with operational efficiency and long-te
 ![](https://github-streaks.tapindersingh.click/?user=Lycius1&theme=dark&hide_border=false&v=2&cache=clear)<br/>
 ![](https://github-stats.tapindersingh.click/top-langs/?username=Lycius1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache=clear)<br/>
 
-
-<hr>
-
+<br>
 
 
 
