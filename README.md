@@ -10,7 +10,7 @@ src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=38&
 </div>
 <br>
 
-About Me
+🙎 About Me
 
 Hi, I’m Louai Beltaief — a Cybersecurity Engineer focused on designing hardened systems, secure backend architectures, and zero-trust environments. I build with the assumption of breach and engineer for resilience, visibility, and controlled trust boundaries.
 
@@ -32,13 +32,15 @@ My approach is structured and outcome-driven: reduce attack surface, enforce lea
 
 I focus on aligning security engineering with operational efficiency and long-term scalability — ensuring protection mechanisms enable the business rather than obstruct it.
 
-## 🛠️ Languages and Tools
+🛠️ Languages and Tools
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+<img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,azure,gcp,bash,powershell,nginx" />
+<img src="https://skillicons.dev/icons?i=github,githubactions,gitlab,terraform,ansible,jenkins" />
 </p>
 
 <br>
