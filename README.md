@@ -50,7 +50,7 @@ I focus on aligning security engineering with operational efficiency and long-te
 🌐 Socials:
   &nbsp;&nbsp;&nbsp;
 <a href="mailto:louaybeltaief1@icloud.com">
-  <img height="45" src="https://shorturl.at/7NfwL" />
+  <img height="45" src="[https://shorturl.at/7NfwL](https://camo.githubusercontent.com/52a173d8eb1942dd9c9935c180ec74ddca5d4b1effc68328e75705d2d55aa451/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456d61696c2d4431343833363f6c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)" />
 </a>
  &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/louai-beltaief/" target="_blank">
