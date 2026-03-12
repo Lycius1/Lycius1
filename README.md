@@ -54,7 +54,7 @@ I focus on aligning security engineering with operational efficiency and long-te
 </a>
  &nbsp;&nbsp;&nbsp;
 <img height="45" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  <img height="45" src="https://shorturl.at/PmzqK" />
+
 </a>
 
 ## 🐍 My Contributions
